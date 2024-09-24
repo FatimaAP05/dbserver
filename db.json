@@ -1,4 +1,4 @@
-"exercise-fit": [
+{"exercise-fit": [
   { 
     "id": 1, 
     "name": "Pack ejercicio de fuerza en barra", 
@@ -174,4 +174,4 @@
     "price": 15.99, 
     "quantity": 0, 
     "image": "almuerzos-food10.jpeg" }
-],
+],}
